@@ -1,2 +1,2 @@
 # mern-stack
-This is a practice and demo repository
+This is a practice and demo repository.
